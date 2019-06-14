@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+h1 img {
+    width: 489px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+form input {
+    display: block;
+    margin: 10px auto;
+    border: 1px solid #000;
+    background-color: #fdfdfd;
+    padding: 10px 20px;
+}
+
+form button {
+    display: block;
+    margin: 10px auto;
+    background-color: #ccc;
+    border: none;
+    padding: 10px 20px;
+
+}
+
+.result {
+    padding: 10px;
+    border: 1px solid #d8d8d8;
+    background: #fdfdfd;
+}
